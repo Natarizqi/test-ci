@@ -103,7 +103,7 @@ class KategoriController extends BaseController
         if ($hapusData) {
             return $this->response->setJSON([
                 'status' => true,
-                'message' => 'berhasil hapus data',
+                'message' => 'berhasil hapus data ',
                 'data' => $hapusData
             ], 200);
         } else {
