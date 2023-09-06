@@ -22,7 +22,7 @@ class BeritaController extends BaseController
 
     public function index()
     {
-        $data['title'] = 'Berita';
+        $data['title'] = 'Daftar Berita';
         $data['listBerita'] = $this->berita->selectData();
 
         return view('contents/berita/index', $data);
