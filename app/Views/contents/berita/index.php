@@ -48,7 +48,7 @@
                 <tr class="fw-bolder fs-7 text-uppercase gs-0 text-start">
                     <th>No</th>
                     <th>Judul Berita</th>
-                    <th>Kategori</th>
+                    <th>Kategori Berita</th>
                     <th>Deskripsi</th>
                     <th>Aksi</th>
                 </tr>
